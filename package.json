@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/spruceid/headless-mermaid#readme",
   "dependencies": {
-    "puppeteer": "^13.5.1"
+    "puppeteer": "^20.5.0"
   }
 }
 
